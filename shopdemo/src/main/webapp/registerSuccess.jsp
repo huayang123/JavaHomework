@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>注册成功！</p>
+<h3>注册成功！</h3>
+
+<a href="${pageContext.request.contextPath}/index.jsp"><input  type="button" value="确定"></a>
 </body>
 </html>

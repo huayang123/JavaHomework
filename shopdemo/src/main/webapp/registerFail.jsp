@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>注册失败！</p>
+<p><a href="${pageContext.request.contextPath }/register.jsp">注册失败,请重新注册！</a></p>
 </body>
 </html>

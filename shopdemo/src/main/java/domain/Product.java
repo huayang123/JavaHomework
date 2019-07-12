@@ -11,7 +11,7 @@ import lombok.Setter;
 public class Product {
 	private String product_id;
 	private String product_name;
-	private String product_price;
+	private double product_price;
 	private Date product_date;
 	private String product_image;
 	private String product_attribute;
